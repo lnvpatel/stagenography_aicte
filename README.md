@@ -1,64 +1,71 @@
-                            Cyberpunk Image Steganography ToolCyberpunk Steganography Tool
+#                            Cyberpunk Image Steganography Tool Cyberpunk Steganography Tool
 
 
 A futuristic steganography tool that allows users to hide and extract secret messages inside images with encryption. The tool features a cyberpunk-style UI, glowing effects, animated UI elements, and sound effects for interactions.
 
 
-📌 Features
+## 📌 Features
+
 🔒 Encryption & Decryption of messages hidden in images
+
 🖥️ Cyberpunk-themed UI with neon glowing effects
+
 🎵 Sound effects for interactions
+
 📈 Progress bar for encoding & decoding process
+
 🖼️ Image preview before encoding or decoding
+
 ⚡ Fast encryption & decryption
 
-🚀 Installation
+### 🚀 Installation
 1. Clone the Repository
-git clone https://github.com/lnvpatel/stagenography_aicte.git
-cd steganography-tool
+- git clone https://github.com/lnvpatel/stagenography_aicte.git
+- cd steganography-tool
 2. Install Dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-📂 Requirements
+### 📂 Requirements
+
 Ensure you have Python 3.7+ installed along with the following dependencies:
 
-opencv-python
-numpy
-cryptography
-pillow
-pygame
-tkinter
+- opencv-python
+- numpy
+- cryptography
+- pillow
+- pygame
+- tkinter
 
 
 Install them using:
-                           pip install opencv-python numpy cryptography pillow pygame
+```python                   
+  pip install opencv-python numpy cryptography pillow pygame
+```                        
 
-🛠️ Usage
+### 🛠️ Usage
 
 🔹 Encrypt a Message
-
-Run the tool:
-python stagno.py
-Click on "Select Image" and choose an image file
-Enter your secret message and password
-Click "Encrypt & Hide Message"
-The encrypted image will be saved as encryptedImage.png
+   1. Run the tool: python stagno.py
+   2. Click on "Select Image" and choose an image file
+   3. Enter your secret message and password
+   4. Click "Encrypt & Hide Message": The encrypted image will be saved as encryptedImage.png
 
 🔹 Decrypt a Message
+   1. Click on "Select Image" and choose the encrypted image
+   2. Enter the same password used during encryption
+   3. Click "Decrypt": The hidden message will be displayed
 
-Click on "Select Image" and choose the encrypted image
-Enter the same password used during encryption
-Click "Decrypt"
-The hidden message will be displayed
+### 📸 UI Preview
 
-📸 UI Preview
+#### 🔗 Developer Info
 
-🔗 Developer Info
 👤 Developed by: Vatsalya Patel
+
 📧 Email: lnvpatel@gmail.com
+
 📞 Contact: +91 7310442221
 
-📜 License
+### 📜 License
 
 This project is open-source under the MIT License. Feel free to modify and enhance it! 🚀
 
@@ -66,7 +73,7 @@ This project is open-source under the MIT License. Feel free to modify and enhan
 
 If you encounter any issues, feel free to raise an issue or contact me!
 
-✨ Show Support
+### ✨ Show Support
 
 If you like this project, don't forget to ⭐ star the repository!
 
