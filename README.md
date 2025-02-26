@@ -26,10 +26,10 @@ cryptography
 pillow
 pygame
 tkinter
+
+
 Install them using:
-
-
-pip install opencv-python numpy cryptography pillow pygame
+    pip install opencv-python numpy cryptography pillow pygame
 
 🛠️ Usage
 
