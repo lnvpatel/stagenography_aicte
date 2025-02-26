@@ -1,6 +1,7 @@
-#                            Cyberpunk Image Steganography Tool Cyberpunk Steganography Tool
 
+<h1 align="center"> Cyberpunk Image Steganography Tool
 
+</h1>
 A futuristic steganography tool that allows users to hide and extract secret messages inside images with encryption. The tool features a cyberpunk-style UI, glowing effects, animated UI elements, and sound effects for interactions.
 
 
